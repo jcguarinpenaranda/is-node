@@ -1,5 +1,5 @@
 {
-  "name": "is-node",
+  "name": "is-platform-node",
   "version": "1.0.0",
   "description": "Detects if platform is node",
   "main": "index.js",
